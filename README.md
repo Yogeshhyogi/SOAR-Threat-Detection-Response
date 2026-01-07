@@ -1,4 +1,4 @@
-# SOAR-Threat-Detection-Response
+# SOAR-Threat-Detection-Response-system
 **The primary objective of this project is to demonstrate the power of SOAR (Security Orchestration, Automation, and Response) by automating the transition from a "Passive Alert" (knowing you are being attacked) to an "Active Defense" (stopping the attack).**
 
 The SOAR Threat Detection and Response System is an automated, multi-layered cybersecurity framework designed to reduce the **"Mean Time to Respond" (MTTR)** to network-based attacks. It integrates a **Network Intrusion Detection System (NIDS)** with a Security Information and Event Management (SIEM) stack to orchestrate real-time, autonomous firewall mitigation without human intervention.
